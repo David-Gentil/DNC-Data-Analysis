@@ -1,8 +1,7 @@
 - 👋 Olá, Eu sou @David-Gentil
 
 - 👨‍💼 Atualmente, atuo na área de Gestão de Projetos e Processos, utilizando Dados ⌨️
-- 🧑‍🔬 Eu estou interessado em Ciência de Dados e coisas relacionadas
-- 👨‍🎓 Atualmente eu estou estudando Ciência de Dados e Engenharia Civil
+- 🧑‍🔬👨‍🎓 Atualmente eu estou estudando Ciência de Dados e Engenharia Civil
 - ▶️
 - ✨  Pretendo utilizar as minhas experiências, principalmente as adquiridas na trajetória em Gestão de Projetos, para resolução de problemas com inovação.
 - 📮 Você pode me encontrar nas redes sociais que constam na minha página principal
